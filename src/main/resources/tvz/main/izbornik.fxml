@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+
+<MenuBar xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="tvz.main.IzbornikController">
+  <menus>
+    <Menu mnemonicParsing="false" text="Profesori">
+      <items>
+        <MenuItem mnemonicParsing="false" onAction="#showProfesorScreen" text="Pretraži" />
+      </items>
+    </Menu>
+    <Menu mnemonicParsing="false" text="Studenti">
+      <items>
+        <MenuItem mnemonicParsing="false" onAction="#showStudentScreen" text="Pretraži" />
+      </items>
+    </Menu>
+    <Menu mnemonicParsing="false" text="Predmeti">
+      <items>
+        <MenuItem mnemonicParsing="false" onAction="#showPredmetScreen" text="Pretraži" />
+      </items>
+    </Menu>
+      <Menu mnemonicParsing="false" text="Ispiti">
+        <items>
+          <MenuItem mnemonicParsing="false" text="Pretraži" />
+        </items>
+      </Menu>
+  </menus>
+</MenuBar>

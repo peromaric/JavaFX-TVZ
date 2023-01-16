@@ -1,0 +1,36 @@
+1
+PR2343
+Web aplikacije u Javi
+7
+2
+4 5 6 7 8
+2
+PR3344
+Algoritmi i strukture podataka
+7
+2
+1 3 6 8 9
+3
+PR1345
+Engleski jezik 1
+5
+2
+1 3 6 8
+3
+PR1213
+Objektno orjentirano programiranje
+7
+2
+2 5 6
+4
+PR1366
+Uvod u neuralne mreže
+3
+2
+2 3 4 5 6
+5
+PR1J47N0
+Primjena blockchain tehnologija
+10
+2
+1 7 2 4
